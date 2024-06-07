@@ -3,11 +3,7 @@
 <br/>
 <br/>
 <div>
-  <a href="https://github.com/Gabriellluna">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriellluna&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriellluna&layout=compact&langs_count=16&theme=onedark&locale=pt-br"/>
-   </a>
-
+ 
 <div style="text-align:center">
    <h3>Principais linguagens:</h3>
   <a href="https://github.com/Gabriellluna"><img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
